@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "47bba426-3f3e-42de-b8e1-f5b0875eea30",
+		"name": "testing",
+		"description": "testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing ",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ttttt",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "",
+				"description": "ttttttttttttttttttttttttttttttttttt"
+			},
+			"response": []
+		},
+		{
+			"name": "https://jsonplaceholder.typicode.com/posts/1",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {},
+				"url": "https://jsonplaceholder.typicode.com/posts/1",
+				"description": "Delete"
+			},
+			"response": []
+		}
+	]
+}

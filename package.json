@@ -1,0 +1,16 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "description": "postman api automation",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "api-tests":"newman run tests/testing.postman_collection.json"
+  },
+  "author": "Kamran Athar",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^3.9.3"
+  }
+}
